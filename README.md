@@ -14,7 +14,7 @@ The Developer Portfolio Template is a customizable and responsive template desig
 
 
 
-./assets/preview.mp4
+(./assets/preview.mp4)
 
 
 
