@@ -7,14 +7,14 @@ The Developer Portfolio Template is a customizable and responsive template desig
 ## Screenshots
 
 ### Mobile View
-![Mobile View](https://github.com/Somesh-Dahatonde/developer-portfolio-templete/assets/63030834/e4cd3dcc-6d3c-4d12-8752-1f4556aae03d)
+![Mobile View](./assets/mobile.png)
 
 ### Desktop View
-![Desktop View](https://github.com/Somesh-Dahatonde/developer-portfolio-templete/assets/63030834/b19f5a5a-dcbe-4144-81d5-95c5bef6d050)
+![Desktop View](./assets/desktop.png)
 
 
 
-https://github.com/Somesh-Dahatonde/developer-portfolio-templete/assets/63030834/14947723-6d30-44bd-a56b-1b59e4516acc
+./assets/preview.mp4
 
 
 
@@ -35,12 +35,12 @@ To get started with the Developer Portfolio Template, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Somesh-Dahatonde/developer-portfolio-templete.git
+   git clone https://github.com/kyy-95631488/CallCenter
    ```
 
 2. Navigate to the project directory:
    ```
-   cd developer-portfolio-templete
+   cd CallCenter
    ```
 
 3. Install the dependencies:
@@ -74,8 +74,8 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 For any inquiries or support, please feel free to reach out:
 
-- Somesh Dahatonde
-- Email: sddahatonde22@gmail.com
-- GitHub: [Somesh-Dahatonde](https://github.com/Somesh-Dahatonde)
+- CallCenter
+- Email: cerberus404x@gmail.com
+- GitHub: [kyy-95631488](https://github.com/kyy-95631488)
 
 Enjoy using the Developer Portfolio Template to showcase your work and skills professionally!
