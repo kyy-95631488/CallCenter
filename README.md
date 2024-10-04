@@ -12,12 +12,6 @@ The Developer Portfolio Template is a customizable and responsive template desig
 ### Desktop View
 ![Desktop View](./assets/desktop.png)
 
-
-
-![Video Preview](./assets/preview.mp4)
-
-
-
 ## Features
 
 - Fully customizable: You can easily personalize the template to match your preferences and branding.
