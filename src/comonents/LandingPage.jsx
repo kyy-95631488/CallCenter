@@ -330,7 +330,7 @@ const LandingPage = () => {
               role: "Laravel Full Stack Developer",
               description: "Specializes in building robust web applications with Laravel framework.",
               whatsapp: "https://wa.me/6281296579157",
-              instagram: "https://www.instagram.com/gh0stxpl0it/",
+              instagram: "https://www.instagram.com/gh0stxpl0it",
               portfolio: "https://hendriansyah.vercel.app/",
               imageAlt: "Hendriansyah Rizky Setiawan",
             },
