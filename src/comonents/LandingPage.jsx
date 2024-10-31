@@ -330,8 +330,8 @@ const LandingPage = () => {
               role: "Laravel Full Stack Developer",
               description: "Specializes in building robust web applications with Laravel framework.",
               whatsapp: "https://wa.me/6281296579157",
-              instagram: "https://instagram.com/#",
-              portfolio: "#",
+              instagram: "https://www.instagram.com/gh0stxpl0it/",
+              portfolio: "https://hendriansyah.vercel.app/",
               imageAlt: "Hendriansyah Rizky Setiawan",
             },
             {
@@ -340,7 +340,7 @@ const LandingPage = () => {
               description: "Provides a wide range of design assets to bring your ideas to life seamlessly.",
               whatsapp: "https://wa.me/6281280321877",
               instagram: "https://instagram.com/kensmoba",
-              portfolio: "https://kensmoba.my.id",
+              portfolio: "https://portofolio-kenny-josiah-silaen.vercel.app/",
               imageAlt: "Kenny Josiah Silaen",
             },
             {
@@ -349,7 +349,6 @@ const LandingPage = () => {
               description: "Handles customer inquiries, assists with web ordering process, and provides support related to ordering.",
               whatsapp: "https://wa.me/6285156306684",
               instagram: "https://instagram.com/Barrhn_",
-              portfolio: "https://barxx.my.id",
               imageAlt: "Mohamad Akbar Hernanda",
             },
             {
@@ -358,7 +357,7 @@ const LandingPage = () => {
               description: "Specializes in React Js, Node.js, and REST API for innovative and efficient development solutions.",
               whatsapp: "https://wa.me/6281220884573",
               instagram: "https://instagram.com/rfqiags",
-              portfolio: "#",
+              portfolio: "https://rifqi-alisba.vercel.app/",
               imageAlt: "Rifqi Alisba Garwita Sutrisno",
             },
           ].map(({ name, role, description, whatsapp, instagram, portfolio, imageAlt }) => (
